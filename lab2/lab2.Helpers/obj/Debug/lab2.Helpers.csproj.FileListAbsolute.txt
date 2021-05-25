@@ -1,0 +1,12 @@
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Helpers\bin\Debug\lab2.Helpers.dll
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Helpers\bin\Debug\lab2.Helpers.pdb
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Helpers\obj\Debug\lab2.Helpers.csprojAssemblyReference.cache
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Helpers\obj\Debug\lab2.Helpers.csproj.CoreCompileInputs.cache
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Helpers\obj\Debug\lab2.Helpers.dll
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Helpers\obj\Debug\lab2.Helpers.pdb
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Helpers\bin\Debug\lab2.Helpers.dll.config
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Helpers\bin\Debug\EntityFramework.dll
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Helpers\bin\Debug\EntityFramework.SqlServer.dll
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Helpers\bin\Debug\EntityFramework.xml
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Helpers\bin\Debug\EntityFramework.SqlServer.xml
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Helpers\obj\Debug\lab2.Helpers.csproj.CopyComplete

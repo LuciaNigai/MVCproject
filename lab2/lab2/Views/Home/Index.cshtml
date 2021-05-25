@@ -1,0 +1,176 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>ASP.NET</h1>
+    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Getting started</h2>
+        <p>
+            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+            enables a clean separation of concerns and gives you full control over markup
+            for enjoyable, agile development.
+        </p>
+        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Get more libraries</h2>
+        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
+        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Web Hosting</h2>
+        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+    </div>
+</div>
+
+<body>
+     <header>
+          <table>
+               <thead>
+                    <tr>
+                         <th><img class="logo" src="~/Content/img/aa.jpg" width="50" height="50"></th>
+                         <th><h2><a href="#">About us</a></h2></th>
+                         <th><h2><a href="#">Projects</a></h2></th>
+                         <th><h2><a href="#">Services</a></h2></th>
+                         <th><h2><a href="@Url.Action("Index","SendMail")">Leave feedback </a><h2></th>
+                         <th><h2><a href="@Url.Action("Index","Login")">Login</a></button></a><h2></th>
+                         <th><h2 class="button"><a href="#">Menu</a><h2></th>
+                    </tr>
+               </thead>
+          </table>
+     </header>
+     <div class="imag1">
+          <img src="~/Content/img/mmm.jpg" width="600" height="700">
+     </div>
+     <section>
+          <div class="listStyle">
+               <p><h2 class="home" style="Courier New" align="center">__________Home decor__________</h2></p>
+               <p>
+                    <h3 align="center">"We combine local knowledge with global expertise, strategy with design, empathy with creativity, meaning with magic. Reach out to discuss how we might help you accelerate change."</h3>
+               </p>
+               <p><p><h3 align="center">__________Interior Design Styles__________</h3></p>
+               <ul>
+                    <li><h3>Modern</h3></li>
+                    <li><h3>Contemporary</h3></li>
+                    <li><h3>Minimalist</h3></li>
+                    <li><h3>Industrial</h3></li>
+                    <li><h3>Mind-century modern</h3></li>
+                    <li><h3>Scandinavian</h3></li>
+                    <li><h3>Traditional</h3></li>
+                    <li><h3>Transitional</h3></li>
+                    <li><h3>French country</h3></li>
+                    <li><h3>Rustic</h3></li>
+               </ul>
+               </p>
+          </div>
+          <section>
+               <br><br><br><br><br>
+               <p><h2 class="sec2scand">__________Modern Design__________</h2></p>
+               <table class="carus">
+                    <thead>
+                         <tr>
+                              <th><img src="~/Content/img/modern1.jpg" width="370" height="400"></th>
+                              <th><img src="~/Content/img/modern2.jpg" width="370" height="400"></th>
+                              <th><img src="~/Content/img/modern3.jpg" width="370" height="400"></th>
+                              <th><img src="~/Content/img/modern4.jpg" width="370" height="400"></th>
+                         </tr>
+                    </thead>
+               </table>
+          </section>
+          <section>
+               <br>
+               <p><h2 class="sec2scand">__________Contemporary Design__________</h2></p>
+               <table class="carus">
+                    <thead>
+                         <tr>
+                              <th><img src="~/Content/img/contemporary1.jpg" width="370" height="400"></th>
+                              <th><img src="~/Content/img/contemporary2.jpg" width="370" height="400"></th>
+                              <th><img src="~/Content/img/contemporary3.jpg" width="370" height="400"></th>
+                              <th><img src="~/Content/img/contemporary4.jpg" width="370" height="400"></th>
+                         </tr>
+                    </thead>
+               </table>
+          </section>
+          <section>
+               <br>
+               <p><h2 class="sec2scand">__________Scandinavian Design__________</h2></p>
+               <table class="carus">
+                    <thead>
+                         <tr>
+                              <th><img src="~/Content/img/s1.jpg" width="370" height="400"></th>
+                              <th><img src="~/Content/img/s3.jpg" width="370" height="400"></th>
+                              <th><img src="~/Content/img/s2.jpg" width="370" height="400"></th>
+                              <th><img src="~/Content/img/s5.jpg" width="370" height="400"></th>
+                         </tr>
+                    </thead>
+               </table>
+          </section>
+          <section>
+               <section class="niz">
+                    <br>
+                    <p><h2 class="sec2scand">__________Contacts__________</h2></p>
+                    <table>
+                         <thead>
+                              <tr>
+                                   <th>
+                                        <form class="info" action="process.php" method="POST">
+                                             <h2>Login</h2>
+                                             <div>
+                                                  <label>First Name</label>
+                                                  <input type="text" name="firstName" placeholder="Enter first name">
+                                             </div>
+                                             <br>
+                                             <div>
+                                                  <label>Last Name</label>
+                                                  <input type="text" name="lastName" placeholder="Enter last name">
+                                             </div>
+                                             <br>
+                                             <div>
+                                                  <label>Email</label>
+                                                  <input type="email" name="email" placeholder="Enter email">
+                                             </div>
+                                             <br>
+                                             <button class="sec2scand">Enter</button>
+                                        </form>
+                                   <th>
+                                        <div class="sec2">
+                                             <h2>Address</h2>
+                                             <h3>Suite 12</h3>
+                                             <h3>2nd Floor</h3>
+                                             <h3>Queens House</h3>
+                                             <h3>180 Tottenham Court Road</h3>
+                                             <h3>London W1T 7PD</h3>
+                                        </div>
+                                   </th>
+                                   <th>
+                                        <div class="sec2">
+                                             <h2>Information</h2>
+                                             <a href="#"><h3>Sign to news</h3></a>
+                                             <a href="#"><h3>Ask a question</h3></a>
+                                             <a href="#"><h3>Forum</h3></a>
+                                             <a href="#"><h3>Confidentiality</h3></a>
+                                             <a href="#"><h3>Agreement</h3></a>
+                                        </div>
+                                   </th>
+                              </tr>
+                         </thead>
+                    </table>
+                    <table class="inst">
+                         <thead>
+                              <tr>
+                                   <th><a href="https://www.instagram.com/l_ucia_ni/"><img src="~/Content/img/instagram.jpg" width="40"></a></th>
+                                   <th><a href="#"><img src="~/Content/img/tviter.jpg" width="40"></a></th>
+                                   <th><a href="#"><img src="~/Content/img/faceb.jpg" width="40"></a></th>
+                              </tr>
+                         </thead>
+                    </table>
+               </section>
+               </html>
+</body>

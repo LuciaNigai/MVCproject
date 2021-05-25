@@ -1,0 +1,15 @@
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Domain\bin\Debug\lab2.Domain.dll
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Domain\bin\Debug\lab2.Domain.pdb
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Domain\obj\Debug\lab2.Domain.csprojAssemblyReference.cache
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Domain\obj\Debug\lab2.Domain.csproj.CoreCompileInputs.cache
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Domain\obj\Debug\lab2.Domain.csproj.CopyComplete
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Domain\obj\Debug\lab2.Domain.dll
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Domain\obj\Debug\lab2.Domain.pdb
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Domain\bin\Debug\lab2.Domain.dll.config
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Domain\bin\Debug\EntityFramework.dll
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Domain\bin\Debug\EntityFramework.xml
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Domain\bin\Debug\lab2.Helpers.dll
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Domain\bin\Debug\lab2.Helpers.pdb
+D:\2 курс 1 и 2 семестры\2 семестр\TW\лабораторные TW\lab2\lab2.Domain\bin\Debug\lab2.Helpers.dll.config

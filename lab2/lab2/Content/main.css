@@ -1,0 +1,117 @@
+a{
+	color: #625244;
+	font-family: 'New Century Schoolbook';
+	text-decoration: none;
+}
+a:hover{
+	color: #946c47;
+	font-family: 'New Century Schoolbook';
+}
+body{
+	margin: 0px;
+	background-color:#abbab9;
+}
+table{
+	width: 100%;
+	text-align: center;
+	background-color:  #91a1a0;
+	font-family:'New Century Schoolbook';
+}
+.button{
+	display: inline-block;
+ 	color: #625244;
+ 	font-weight: 700;
+ 	text-decoration: none;
+ 	user-select: none;
+  	padding: .2em 2em;
+  	outline: none;
+  	border: 2px solid;
+  	border-radius: 40%;
+  	transition: 0.2s;
+  	border-radius:10%;
+}
+.button:hover{
+	 background: rgba(255,255,255,.2);
+}
+.logo{
+     border-radius: 25%;
+}
+.imag1 img{
+	border: none;
+	margin-top: none;
+  	float: right;
+    width: 50%;
+}
+
+.home{
+	font-family:'New Century Schoolbook';;
+}
+.listStyle{
+	margin-left: 3%;
+	margin-top: 3%;
+	margin-right:60%;
+	font-family: 'New Century Schoolbook';
+	list-style-type: square;
+	color: #625244;
+	background-color: #91a1a0;
+	border-radius:4%;
+}
+.sec2scand{
+	text-align: center;
+	font-family: 'New Century Schoolbook';
+	color: #625244;
+}
+.sec2{
+	text-align: left;
+	font-family: 'New Century Schoolbook';
+	color: #625244;
+}
+
+.carus{
+    background-color: #abbab9;
+}
+.carus img{
+    border-radius: 5%;
+}
+
+.niz{
+	background-color: #91a1a0;
+}
+.info{
+	color: #625244;
+	font-family: 'New Century Schoolbook'
+	float: left;
+
+}
+input[type=text] {
+    border: none;
+    background-color: #91a1a0;
+    border-bottom: 2px solid #625244;
+}
+input[type=email] {
+    border: none;
+    background-color: #91a1a0;
+    border-bottom: 2px solid #625244;
+}
+input[type=text]:focus {
+    border: none;
+    background-color: #91a1a0;
+}
+button{
+	background-color: #91a1a0;
+	display: inline-block;
+ 	color: #625244;
+ 	font-weight: 700;
+ 	text-decoration: none;
+ 	user-select: none;
+  	padding: .2em 2em;
+  	outline: none;
+  	border: 2px solid;
+  	border-radius: 40%;
+  	transition: 0.2s;
+  	border-radius:10%;
+}
+button:hover{
+	 background: rgba(255,255,255,.2);
+	 color: #946c47;
+}
